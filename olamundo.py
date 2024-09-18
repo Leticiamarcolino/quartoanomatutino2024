@@ -1,2 +1,2 @@
 print("oi galera")
-print("conflito olá mkkkkkkkkkkkkkkkundo!")
+print("conflito olá mkkkkkkkkundo!")
